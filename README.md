@@ -243,7 +243,7 @@ If you find this work useful, please cite:
 
 ## License + attribution
 
-The DVLT **code** is released under the **Apache License, Version 2.0** — see
+The DVLT **code** is released mostly under the **Apache License, Version 2.0** — see
 [LICENSE](LICENSE). The **model weights** (the `nvidia/dvlt` checkpoint) are
 released under the **NVIDIA License** — non-commercial, research-and-evaluation
 use only; see [LICENSES/NVIDIA-LICENSE.txt](LICENSES/NVIDIA-LICENSE.txt).
